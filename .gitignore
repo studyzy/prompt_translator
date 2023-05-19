@@ -130,3 +130,5 @@ dmypy.json
 
 # remove models
 models
+.idea
+.vscode
